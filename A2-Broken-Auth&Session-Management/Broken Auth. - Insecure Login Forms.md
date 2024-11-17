@@ -10,7 +10,7 @@ password: I am Iron Man
 
 ### Medium
 
-![]("../marktext_images/2024-11-16-11-49-48-image.png")
+![](../marktext_images/2024-11-16-11-49-48-image.png)
 
 Website loads ba_insecure_login_2.php. This file contains the above mentioned function. To determine the password you need to manually evaluate secret variable.
 
