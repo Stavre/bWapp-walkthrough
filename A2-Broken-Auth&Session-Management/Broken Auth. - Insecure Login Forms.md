@@ -1,6 +1,6 @@
 ### Low
 
-![](..\marktext_images\89a24c5631504bf52828a425cb5cd2fc82015947.png)
+![](../marktext_images/89a24c5631504bf52828a425cb5cd2fc82015947.png)
 
 The username and password are provided in the html page.
 
@@ -10,7 +10,7 @@ password: I am Iron Man
 
 ### Medium
 
-![](..\marktext_images\2024-11-16-11-49-48-image.png)
+![](../marktext_images/2024-11-16-11-49-48-image.png)
 
 Website loads ba_insecure_login_2.php. This file contains the above mentioned function. To determine the password you need to manually evaluate secret variable.
 
@@ -24,6 +24,6 @@ We know that the variables composing the secret all evaluate to characters from 
 
 ### High
 
-![](..\marktext_images\2024-11-16-12-05-54-image.png)
+![](../marktext_images/2024-11-16-12-05-54-image.png)
 
 The username and password are in the hint. If you don't use a new browser session the browser may auto-complete the username and password.
